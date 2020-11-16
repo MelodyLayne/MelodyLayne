@@ -1,10 +1,12 @@
-### Hi there, my name is Melody! 👋
-<link href="style.css" rel="stylesheet'></link>
+
 <!--
+<link href="style.css" rel="stylesheet'></link>
 **MelodyLayne/MelodyLayne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
+### Hi there, my name is Melody! 👋
+
 - 🔭 I’m currently working on furthering my skill set by attening the app/Academy online Software Engineer Bootcamp.
 - 🌱 I’m currently learning Javascript, Python, React, Redux, SQL, and more!
 - 🤔 I’m looking to engage with developers who want to share their knowledge with a fresh dev and help me be a smarter programmer. In return, I don't mind writing code based on directions given. Fair trade is important to me!
