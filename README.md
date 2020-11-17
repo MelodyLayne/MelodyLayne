@@ -1,11 +1,13 @@
-
+ <p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=MelodyLayne&show_icons=true&theme=shades-of-purple" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelodyLayne&layout=compact&theme=shades-of-purple" alt="languages" height="165">
+</p>
 <!--
 <link href="style.css" rel="stylesheet'></link>
 **MelodyLayne/MelodyLayne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
-### Hi there, my name is Melody! 👋
+### Hi, my name is Melody! 👋
 
 - 🔭 I’m currently working on furthering my skill set by attening the app/Academy online Software Engineer Bootcamp.
 - 🌱 I’m currently learning Javascript, Python, React, Redux, SQL, and more!
