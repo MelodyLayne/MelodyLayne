@@ -10,7 +10,5 @@ Hi, my name is Melody!
 - 😄 Pronouns: My pronouns are She | Her | Hers
 - ⚡ Fun fact: I lived on the island of Key West for a month a few years ago. It was fantastic!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MelodyLayne)](https://github.com/MelodyLayne/github-readme-stats)
-
-![Melody's github stats](https://github-readme-stats.vercel.app/api?username=MelodyLayne&show_icons=true&bg_color=33,#55CDFC,#FFFFFF,#F7A8B8)
+![Melody's github stats](https://github-readme-stats.vercel.app/api?username=MelodyLayne&show_icons=true&count_private=true&bg_color=33,#55CDFC,#FFFFFF,#F7A8B8)
 
