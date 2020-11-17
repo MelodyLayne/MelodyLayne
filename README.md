@@ -1,6 +1,4 @@
- <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=MelodyLayne&show_icons=true&theme=shades-of-purple" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelodyLayne&layout=compact&theme=shades-of-purple" alt="languages" height="165">
-</p>
+
 <!--
 <link href="style.css" rel="stylesheet'></link>
 **MelodyLayne/MelodyLayne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,3 +15,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: melodylayne79@gmail.com
 - 😄 Pronouns: My pronouns are She | Her | Hers
 - ⚡ Fun fact: I lived on the island of Key West for a month a few years ago. It was fantastic!
+
+ <p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=MelodyLayne&show_icons=true&theme=shades-of-purple" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelodyLayne&layout=compact&theme=shades-of-purple" alt="languages" height="165">
+</p>
