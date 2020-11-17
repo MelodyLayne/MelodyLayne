@@ -24,6 +24,9 @@
 <br>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MelodyLayne&show_icons=true&count_private=true&bg_color=33,#55CDFC,#F7A8B8,#FFFFFF,#F7A8B8,#55CDFC)](https://github.com/MelodyLayne/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MelodyLayne&theme=cobalt&show_icons=true&count_private=true)](https://github.com/MelodyLayne/github-readme-stats)
 <br>
-[![Melody's github stats](https://github-readme-stats.vercel.app/api?username=MelodyLayne&show_icons=true&count_private=true&bg_color=33,#55CDFC,#F7A8B8,#FFFFFF,#F7A8B8,#55CDFC)](https://github.com/MelodyLayne/github-readme-stats)
+[![Melody's github stats](https://github-readme-stats.vercel.app/api?username=MelodyLayne&theme=cobalt&show_icons=true&count_private=true)]
+
+
+<!--&bg_color=33,#55CDFC,#F7A8B8,#FFFFFF,#F7A8B8,#55CDFC--!>
