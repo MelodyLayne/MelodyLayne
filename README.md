@@ -23,7 +23,7 @@
 <br>
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelodyLayne&layout=compact&count_private=true&theme=cobalt" alt="languages" width="420" height="165">&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelodyLayne&layout=compact& langs_count=5&count_private=true&theme=cobalt" alt="languages" width="420" height="165">&nbsp;
 <img src="https://github-readme-stats.vercel.app/api?username=MelodyLayne&show_icons=true&count_private=true&theme=cobalt" alt="my github stats" height="165" width="420"/>
 </p>
 
