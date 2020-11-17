@@ -24,7 +24,7 @@
 <br>
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MelodyLayne&theme=cobalt&show_icons=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MelodyLayne&theme=cobalt&count_private=true&show_icons=true)
 <br>
 ![Melody's github stats](https://github-readme-stats.vercel.app/api?username=MelodyLayne&theme=cobalt&show_icons=true&count_private=true)
 
