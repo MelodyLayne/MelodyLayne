@@ -1,4 +1,4 @@
-Hi, my name is Melody!
+<h2 align="center">Hi, my name is Melody!</h2>
 
 
 - 🔭 I’m currently working on furthering my skill set by attening the app/Academy online Software Engineer Bootcamp.
@@ -24,5 +24,5 @@ Hi, my name is Melody!
 <br>
 <br>
 
-[![Melody's github stats](https://github-readme-stats.vercel.app/api?username=MelodyLayne&show_icons=true&count_private=true&bg_color="33,#55CDFC,#F7A8B8,#FFFFFF,#F7A8B8,#55CDFC")](https://github.com/MelodyLayne/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MelodyLayne&show_icons=true&count_private=true&bg_color=33,#55CDFC,#F7A8B8,#FFFFFF,#F7A8B8,#55CDFC)](https://github.com/MelodyLayne/github-readme-stats)
+[![Melody's github stats](https://github-readme-stats.vercel.app/api?username=MelodyLayne&show_icons=true&count_private=true&bg_color=33,#55CDFC,#F7A8B8,#FFFFFF,#F7A8B8,#55CDFC)](https://github.com/MelodyLayne/github-readme-stats)
