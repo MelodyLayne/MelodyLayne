@@ -24,5 +24,5 @@ Hi, my name is Melody!
 <br>
 <br>
 
-![Melody's github stats](https://github-readme-stats.vercel.app/api?username=MelodyLayne&show_icons=true&count_private=true&text_color=#55CDFC&bg_color=#F7A8B8)
+![Melody's github stats](https://github-readme-stats.vercel.app/api?username=MelodyLayne&bg_color=33,#55CDFC,#FFFFFF,#F7A8B8&show_icons=true&count_private=true)
 
