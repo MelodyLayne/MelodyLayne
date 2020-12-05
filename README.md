@@ -3,7 +3,7 @@
 <h2 align="center">Hi, my name is Melody!</h2>
 
 
-- 🔭 I’m currently working on furthering my skill set by attening the app/Academy online Software Engineer Bootcamp.
+- 🔭 I’m currently working on furthering my skill set by attending the app/Academy online Software Engineer Bootcamp.
 - 🌱 I’m currently learning Javascript, Python, React, Redux, SQL, and more!
 - 🤔 I’m looking to engage with developers who want to share their knowledge with a fresh dev and help me be a smarter programmer. In return, I don't mind writing code based on directions given. Fair trade is important to me!
 - 💬 AMA, Like most people, I don't mind talking about myself(within reason I think).
