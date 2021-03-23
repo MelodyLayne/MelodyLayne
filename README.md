@@ -1,5 +1,3 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=MelodyLayne.visitor-badge)
-
 <h2 align="center">Hi, my name is Melody!</h2>
 
 
