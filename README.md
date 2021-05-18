@@ -1,11 +1,11 @@
 <h2 align="center">Hi, my name is Melody!</h2>
 
 
-- 🔭 I am a freelance Software Engineer.
+- 🔭 I'm building a non-profing org that is designed to help transgender people who live in the southern states. I am also a freelance Software Engineer.
 - 🌱 I’m currently expanding my skills with Javascript, Postgresql, React, Redux and Python(coming soon)!
 - 🤔 I’m looking to engage with developers who want to share their knowledge with a fresh dev and help me be a smarter programmer. In return, I don't mind writing code based on directions given. Fair trade is important to me!
 - 💬 AMA, Like most people, I don't mind talking about myself(within reason I think).
-- 🏠 Currenlty I live in Dallas, TX which is also where I was born. I've also lived in Glenwood Springs, CO and Ft. Walton Beach, FL. 
+- 🏠 Currently I live in Dallas, TX which is also where I was born. I've also lived in Glenwood Springs, CO and Ft. Walton Beach, FL. Coming soon, Pensacola, FL!
 - 📫 How to reach me: melodylayne79@gmail.com
 - 😄 Pronouns: My pronouns are She | Her | Hers
 - ⚡ Fun fact: I lived on the island of Key West for a month a few years ago. It was fantastic!
